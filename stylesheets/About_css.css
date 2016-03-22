@@ -1,0 +1,46 @@
+body {
+margin: 0px;
+padding: 0px;
+}
+
+#home {
+position: fixed;
+right: 15px;
+top: 15px;
+width: 35px;
+height: 35px;
+background-image: url(../1458563779_8.png);
+background-size: cover;
+display: inline-block;
+-webkit-transition:1s, color .2s ease-out;
+transition:1s, color .2s ease-out;
+}
+
+#home:hover {
+background-image: url(../home_hover.png);
+background-size: cover;
+}
+
+h1 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 70px;
+    margin-left: 30px;
+}
+
+#line1 {
+margin-top: -10px;
+border-top: 1px dashed #8c8b8b;
+}
+
+#line2 {
+border-top: 1px solid #8c8b8b;
+}
+
+#intro {
+padding: 40px 50px 40px 50px;
+}
+
+#intro p {
+font-family: 'Marck Script', cursive;
+font-size: 17px;
+}

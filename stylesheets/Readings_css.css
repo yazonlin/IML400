@@ -1,0 +1,67 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color:white;
+}
+
+#home {
+position: fixed;
+right: 15px;
+top: 15px;
+width: 35px;
+height: 35px;
+background-image: url(../1458563779_8.png);
+background-size: cover;
+display: inline-block;
+-webkit-transition:1s, color .2s ease-out;
+transition:1s, color .2s ease-out;
+}
+
+#home:hover {
+background-image: url(../home_hover.png);
+background-size: cover;
+}
+
+h1 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 70px;
+    margin-left: 30px;
+}
+
+h2 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+}
+
+.response {
+padding-left: 40px;
+padding-right: 40px;
+padding-bottom: 50px;
+}
+
+.response p {
+font-family: 'Marck Script', cursive;
+font-size: 17px;
+}
+
+#yellow {
+background-color: #CCFFCC;
+width: 900px;
+height: 450px;
+float: right;
+position: fixed;
+right: 0px;
+top: 200px;
+overflow: scroll;
+}
+
+#blue {
+background-color: #FFCCFF;
+width: 550px;
+height: 100%;
+position: absolute;
+top: 0px;
+left: 0px;
+z-index: -1;
+}
+

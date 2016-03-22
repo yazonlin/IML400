@@ -1,4 +1,84 @@
 body {
- background-color:black;
- color: navajowhite;
+ background-color:gainsboro;
+ color: black;
+margin: 0px;
+padding: 0px;
+}
+
+ul {
+list-style-type: none;
+display: block;
+margin-left: -170px;
+margin-top: 30px;
+}
+
+li {
+width: 300px;
+height: 70px;
+background-color: black;
+margin-bottom: 20px;
+box-sizing: border-box;
+text-align: right;
+padding-right: 10px;
+display: inline-block;
+font-family: 'Amatic SC', cursive;
+font-size: 35px;
+-webkit-transition:1s, color .2s ease-out;
+transition:1s, color .2s ease-out;
+}
+
+li a {
+color: white;
+text-decoration: none;
+}
+
+td {
+display: table-cell;
+vertical-align: middle;
+}
+
+ul li:hover {
+margin-left: 100px;
+}
+
+ul li a:hover {
+color: hotpink;
+}
+
+#yellow {
+background-color: yellow;
+width: 900px;
+height: 500px;
+float: right;
+position: fixed;
+right: 0px;
+top: 200px;
+}
+
+#yellow p {
+color: black;
+font-family: 'Marck Script', cursive;
+font-size: 17px;
+padding-left: 20px;
+padding-right: 20px;
+}
+
+#blue {
+background-color: dodgerblue;
+width: 550px;
+height: 100%;
+position: absolute;
+top: 0px;
+left: 0px;
+z-index: -1;
+}
+
+#yazon {
+color: black;
+font-size: 100px;
+right: 40px;
+top: -20px;
+position: fixed;
+font-family: 'Amatic SC', cursive;
+font-weight: 1000px;
 }
