@@ -1,7 +1,7 @@
 body {
     margin: 0px;
     padding: 0px;
-    background-color:#F07000;
+    background-color:darkgrey;
 }
 
 #home {
@@ -54,7 +54,7 @@ color: white;
 }
 
 #yellow {
-background-color: darkgrey;
+background-color: white;
 width: 900px;
 height: 450px;
 float: right;
@@ -65,7 +65,7 @@ overflow: scroll;
 }
 
 #blue {
-background-color: #4B610B;
+background-color: black; 
 width: 550px;
 height: 100%;
 position: absolute;
