@@ -36,6 +36,7 @@ h2 {
 .response {
 padding-left: 40px;
 padding-right: 40px;
+padding-bottom: 40px;    
 }
 
 .response p {
@@ -53,7 +54,6 @@ position: fixed;
 right: 0px;
 top: 200px;
 overflow-y:scroll;
-padding-bottom: 40px;    
 }
 
 #blue {
