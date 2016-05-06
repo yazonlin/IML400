@@ -39,6 +39,10 @@ margin-left: auto;
 margin-right: auto;
 }
 
+#nav a {
+color: black;
+}
+
 #line1 {
 margin-top: -10px;
 border-top: 1px dashed #8c8b8b;
