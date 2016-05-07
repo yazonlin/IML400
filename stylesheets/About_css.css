@@ -40,7 +40,36 @@ border-top: 1px solid #8c8b8b;
 padding: 40px 50px 40px 50px;
 }
 
-#intro p {
+#text p {
 font-family: 'Marck Script', cursive;
 font-size: 17px;
+margin-top: 0px;
+}
+
+#text {
+width: 680px;
+height: 400px;
+margin-top: 0px;
+margin-right: 50px;
+float: right;
+}
+
+#mypic {
+width: 250px;
+height: 250px;
+margin-top:25px;
+margin-left: 25px;
+float: left;
+background-image: url(../me.jpg);
+background-size: cover;
+}
+
+#frame {
+border-style: solid;
+border-width: 2px;
+border-color: black;
+width: 300px;
+height: 300px;
+margin-top: 0px;
+margin-left: 80px;
 }
