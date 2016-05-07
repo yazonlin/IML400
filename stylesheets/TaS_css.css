@@ -25,7 +25,21 @@ h1 {
     font-family: 'Amatic SC', cursive;
     font-size: 70px;
     margin-left: 30px;
-    
+}
+
+h1 a {
+text-decoration: none;
+color: black;
+}
+
+#TaS {
+width: 170px;
+height: 50px;
+background-color: gainsboro;
+position: relative;
+margin-top: -400px;
+margin-left: 405px;
+z-index: -1;
 }
 
 h2 {
@@ -58,7 +72,31 @@ border-top: 1px solid #8c8b8b;
 padding: 40px 50px 40px 50px;
 }
 
-#intro p {
+p {
 font-family: 'Marck Script', cursive;
-font-size: 17px;
+font-size: 20px;
+padding-top: 40px;
 }
+
+#content {
+width: 1100px;
+height: 350px;
+margin-top: 25px;
+margin-left: auto;
+margin-right: auto;
+position: relative;
+background-color: gainsboro;
+}
+
+#text {
+width: 1000px;
+height: 350px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 20px;
+background-image: url(breakdance1.png);
+background-repeat: no-repeat;
+background-size: 90%;
+background-position: center;
+}
+
