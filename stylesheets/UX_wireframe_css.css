@@ -27,38 +27,6 @@ h1 {
     margin-left: 30px;
 }
 
-h1 a {
-text-decoration: none;
-color: black;
-}
-
-#Design {
-width: 100px;
-height: 50px;
-background-color: gainsboro;
-position: relative;
-margin-top: -400px;
-margin-left: 780px;
-z-index: -1;
-}
-
-h2 {
-float: left;
-margin-left: 100px;
-margin-top: -20px;
-}
-
-
-#nav {
-width: 1000px;
-margin-left: auto;
-margin-right: auto;
-}
-
-#nav a {
-color: black;
-}
-
 #line1 {
 margin-top: -10px;
 border-top: 1px dashed #8c8b8b;
@@ -68,32 +36,30 @@ border-top: 1px dashed #8c8b8b;
 border-top: 1px solid #8c8b8b;
 }
 
-#intro {
+#content {
 padding: 40px 50px 40px 50px;
+margin-left: auto;
+margin-right: auto;
 }
 
 p {
 font-family: 'Marck Script', cursive;
 font-size: 20px;
-padding-top: 0px;
-}
-
-#content {
-width: 1100px;
-height: 350px;
-margin-top: 25px;
-margin-left: auto;
-margin-right: auto;
-position: relative;
-background-color: gainsboro;
+margin-top: -5px;
 }
 
 #text {
-width: 1000px;
-height: 300px;
-margin-left: auto;
-margin-right: auto;
-margin-top: 0px;
-overflow-y: scroll;
+width: 500px;
+height: 400px;
+margin-top: -15px;
+margin-left: 10px;
+float: left;
 }
 
+#wireframe {
+width: 480px;
+height: 350px;
+margin-top: -15px;
+margin-left: 50px;
+float: left;
+}

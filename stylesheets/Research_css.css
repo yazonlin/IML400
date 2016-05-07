@@ -72,9 +72,10 @@ border-top: 1px solid #8c8b8b;
 padding: 40px 50px 40px 50px;
 }
 
-#intro p {
+p {
 font-family: 'Marck Script', cursive;
-font-size: 17px;
+font-size: 20px;
+padding-top: 0px;
 }
 
 #content {
@@ -85,5 +86,14 @@ margin-left: auto;
 margin-right: auto;
 position: relative;
 background-color: gainsboro;
+}
+
+#text {
+width: 1000px;
+height: 300px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 0px;
+overflow-y: scroll;
 }
 
