@@ -113,11 +113,11 @@ padding-right: 20px;
 }
 
 
-a {
+#text a {
 text-decoration: none;
 color: grey;
 }
 
-a:hover {
+#text a:hover {
 color: white;
 }
