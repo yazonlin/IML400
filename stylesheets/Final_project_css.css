@@ -1,0 +1,133 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color:black;
+}
+
+#header {
+width: 100%;
+height: 250px;
+background-image: url(b-boy-catalogue.png);
+background-repeat: no-repeat;
+background-position: center;
+}
+
+#Roxrite {
+width: 12.5%;
+height: 380px;
+background-image: url(roxrite.jpg);
+background-position: -130px;
+background-repeat: no-repeat;
+background-size:cover;
+margin-top: -8px;
+float: left;
+}
+
+#Roxrite:hover {
+opacity: 0.5;
+}
+
+#Mounir {
+width: 12.5%;
+height: 380px;
+background-image: url(mounir.jpeg);
+background-position: -170px;
+background-repeat: no-repeat;
+background-size:cover;
+margin-top: -7px;
+float: left;
+}
+
+#Mounir:hover {
+opacity: 0.5;
+}
+
+#Cloud {
+width: 12.5%;
+height: 380px;
+background-image: url(cloud.jpg);
+background-position: -15px;
+background-repeat: no-repeat;
+background-size:cover;
+margin-top: -7px;
+float: left;
+}
+
+#Cloud:hover {
+opacity: 0.5;
+}
+
+#Lilou {
+width: 12.5%;
+height: 380px;
+background-image: url(lilou.jpeg);
+background-position: -170px;
+background-repeat: no-repeat;
+background-size:cover;
+margin-top: -7px;
+float: left;
+}
+
+#Lilou:hover {
+opacity: 0.5;
+}
+
+#Taisuke {
+width: 12.5%;
+height: 380px;
+background-image: url(taisuke.jpg);
+background-position: -5px;
+background-repeat: no-repeat;
+background-size:cover;
+margin-top: -7px;
+float: left;
+}
+
+#Taisuke:hover {
+opacity: 0.5;
+}
+
+#Hong10 {
+width: 12.5%;
+height: 380px;
+background-image: url(hong10.jpg);
+background-position: -300px;
+background-repeat: no-repeat;
+background-size:cover;
+margin-top: -7px;
+float: left;
+}
+
+#Hong10:hover {
+opacity: 0.5;
+}
+
+#LilG {
+width: 12.5%;
+height: 380px;
+background-image: url(lil-g.jpg);
+background-position: -17px;
+background-repeat: no-repeat;
+background-size:cover;
+margin-top: -7px;
+float: left;
+}
+
+#LilG:hover {
+opacity: 0.5;
+}
+
+#Storm {
+width: 12.5%;
+height: 380px;
+background-image: url(storm.jpg);
+background-position: -170px;
+background-repeat: no-repeat;
+background-size:cover;
+margin-top: -7px;
+float: left;
+}
+
+#Storm:hover {
+opacity: 0.5;
+}
