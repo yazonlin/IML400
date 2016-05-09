@@ -42,15 +42,17 @@ background-size: cover;
 
 hr {
 margin-top: -20px;
+background-color: #A00000;
+border: none;
+height: 1.5px;
 }
 
 #gif {
 margin-left: 40px;
 margin-top: 65px;
 border: solid 1px;
-color: #A00000;
+color: white;
 }
-
 #intro {
 width: 510px;
 height: 320px;
