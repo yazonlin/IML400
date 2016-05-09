@@ -8,7 +8,7 @@ body {
 width: 100%;
 height: 100%;
 background-image: url(taisuke_background.jpg);
-opacity: 0.2;
+opacity: 0.3;
 position: fixed;
 z-index: -1;
 background-size: cover;
