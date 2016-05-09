@@ -29,3 +29,7 @@ transition:1s, color .2s ease-out;
 background-image: url(home_hover.png);
 background-size: cover;
 }
+
+hr {
+margin-top: -20px;
+}
