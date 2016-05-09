@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+ <html>
+  <head>
+      <title>Roxrite</title>
+      <script src="processing.js"></script>
+       <link rel="stylesheet" href="stylesheets/Roxrite_css.css">
+  </head>
+  <body>
+      <div id="header"></div>
+      <a href="index.html"><div id="home"></div></a>
+ </body>
+ </html>

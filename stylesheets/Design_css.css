@@ -90,16 +90,17 @@ background-color: gainsboro;
 
 #text {
 width: 1000px;
-height: 300px;
+height: 310px;
 margin-left: 50px;
 margin-right: 40px;
-margin-top: 0px;
+margin-top: 10px;
 overflow-y: scroll;
 padding-right: 20px;
 }
 
 ::-webkit-scrollbar {
     width: 10px;
+
 }
 
 ::-webkit-scrollbar-track {
